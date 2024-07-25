@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic White T-Shirt",
+      "category": "T-shirts",
+      "price": 19.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "White",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVBwWaengtDP0jNZRShzaxFTJXwRRoh2HFQ&s",
+      "stock": 100,
+      "description": "A comfortable, versatile white t-shirt for everyday wear."
+    },
+    {
+      "id": "2",
+      "name": "Slim Fit Jeans",
+      "category": "Pants",
+      "price": 49.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Blue",
+      "image_url": "https://www.uniqlo.com.hk/hmall/test/u0000000050961/main/other4/480/5.jpg",
+      "stock": 75,
+      "description": "Modern slim fit jeans in a classic blue wash."
+    },
+    {
+      "id": "3",
+      "name": "Hooded Sweatshirt",
+      "category": "Hoodies",
+      "price": 39.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Gray",
+      "image_url": "https://m.media-amazon.com/images/I/71gEWlwpN9L._AC_UY1000_.jpg",
+      "stock": 50,
+      "description": "A cozy hoodie perfect for chilly days."
+    },
+    {
+      "id": "4",
+      "name": "Running Shoes",
+      "category": "Shoes",
+      "price": 79.99,
+      "size": ["7", "8", "9", "10", "11"],
+      "color": "Black",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPRL4Gjq6YpEaiv06G3H63QXML0EGPLG-XQ&s",
+      "stock": 60,
+      "description": "Lightweight, comfortable shoes for your daily run."
+    },
+    {
+      "id": "5",
+      "name": "Leather Belt",
+      "category": "Accessories",
+      "price": 29.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Brown",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR8mFrTHRvSdI5iMECleqPv3yYrpqtyA98dg&s",
+      "stock": 40,
+      "description": "A durable leather belt to complete your outfit."
+    },
+    {
+      "id": "6",
+      "name": "Graphic Print T-Shirt",
+      "category": "T-shirts",
+      "price": 24.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Black",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKIfcPj8FdaiGCU7gracEM-atiL9C40IiSQ&s",
+      "stock": 80,
+      "description": "Express yourself with this unique graphic print tee."
+    },
+    {
+      "id": "7",
+      "name": "Cargo Shorts",
+      "category": "Pants",
+      "price": 34.99,
+      "size": ["30", "32", "34", "36"],
+      "color": "Khaki",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMaXZcldfOwTQ2c6sl9onZsgOINR35xwTzA&s",
+      "stock": 55,
+      "description": "Practical and stylish cargo shorts for summer adventures."
+    },
+    {
+      "id": "8",
+      "name": "Zip-Up Hoodie",
+      "category": "Hoodies",
+      "price": 44.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Navy",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0h3jLGx1SO5v6BzPJAi2niqrFUmepXzipA&s",
+      "stock": 45,
+      "description": "A versatile zip-up hoodie for layering or standalone wear."
+    },
+    {
+      "id": "9",
+      "name": "Canvas Sneakers",
+      "category": "Shoes",
+      "price": 54.99,
+      "size": ["7", "8", "9", "10", "11"],
+      "color": "White",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduYwg0cnld7LHXdxPNbAS__0kf6gBY1REtA&s",
+      "stock": 70,
+      "description": "Classic canvas sneakers for a casual, timeless look."
+    },
+    {
+      "id": "10",
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 89.99,
+      "size": ["One Size"],
+      "color": "Black",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzGrQKTRXhdEwngnXNOyWwRjh6v81sxRixQ&s",
+      "stock": 30,
+      "description": "Stylish sunglasses with UV protection for sunny days."
+    },
+    {
+      "id": "11",
+      "name": "SWEAT LONG SLEEVE FULL-ZIP HOODIE",
+      "category": "Hoodies",
+      "price": 99.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Red",
+      "image_url": "https://www.uniqlo.com.hk/hmall/test/u0000000027845/main/first/561/1.jpg",
+      "stock": 30,
+      "description": "A stylish hoodie perfect for cold weather."
+    },
+    {
+      "id": "12",
+      "name": "AIRism COTTON FULL OPEN SHORT SLEEVE POLO SHIRT",
+      "category": "T-shirts",
+      "price": 99.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Grey",
+      "image_url": "https://www.uniqlo.com.hk/hmall/test/u0000000050253/main/first/561/1.jpg",
+      "stock": 30,
+      "description": "A comfortable, stylish polo shirt."
+    },
+    {
+      "id": "13",
+      "name": "AIRism COTTON FULL OPEN SHORT SLEEVE POLO SHIRT",
+      "category": "T-shirts",
+      "price": 99.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "Black",
+      "image_url": "https://www.uniqlo.com.hk/hmall/test/u0000000050253/main/other2/480/3.jpg",
+      "stock": 30,
+      "description": "A comfortable, polo shirt for everyday wear."
+    },
+    {
+      "id": "14",
+      "name": "ULTRA STRETCH DRY-EX TAPERED PANTS",
+      "category": "Pants",
+      "price": 79.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": "BEIGE",
+      "image_url": "https://www.uniqlo.com.hk/hmall/test/u0000000028266/sku/561/COL32.jpg",
+      "stock": 30,
+      "description": "A comfortable, polo shirt for everyday wear."
+    }
+  ]
+}
